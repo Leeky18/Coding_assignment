@@ -28,5 +28,4 @@ In order to install the required libraries, the following command line is recomm
 
 ```
 pip install -r requirements.txt
-
 ```
